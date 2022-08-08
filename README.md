@@ -9,4 +9,4 @@ BIO
 - 🌱 I’m currently learning `C#`
 - 🌍 I would be interesting in collaborating on anything that sparks my interest (music/video game projects; HMU)
 - 📫 Reach me: jameshenryaslett@gmail.com
-- ⚡ Fun fact: I love playing the drums
+- ⚡ Fun fact: Drums and coffee make me happy
